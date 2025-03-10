@@ -24,12 +24,24 @@ header, footer{
     padding: 0 20px;
 }
 
+header{
+    height: 100px;
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    color: white;
+    padding-left: 75px;
+    justify-content: flex-start;
+}
+
+header span{
+    font-weight: 600;
+}
+
 main{
     flex-grow: 1;
     display: flex;
     justify-content: center;
     align-items: center;
     background-color: #DA6062;
-
-
 }
