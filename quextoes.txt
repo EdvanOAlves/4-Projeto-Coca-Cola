@@ -50,7 +50,7 @@ Ambos alinham os itens, justify content irá alinhar ao eixo principal (horizont
 
 
 17. Como o flex-grow funciona e qual o seu propósito no layout Flexbox?
-R: 
+R: Definir um elemento a um tamanho adaptavel, ele se estica para preencher o espaço disponível, ótimo para definir tamanho de areas para conteudo
 
 18. Explique a diferença entre flex-direction: column; e flex-direction: row;.
 R: Flex-direction column irá exibir os itens priorizando montar colunas,
