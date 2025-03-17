@@ -18,7 +18,7 @@ R: git commit cria um marco de todas as alterações inclusas pelo git add, cria
 R: Subir o repositório para a nuvem, no nosso caso para o github
 
 7. Qual a importância de criar commits frequentes durante o desenvolvimento de um projeto?
-R:
+R: Organização e uma garantia para restauração em caso de problema com o arquivo, teria uma cópia recente, além de claro, poder apontar o que é cada commit se este for realizado a cada função nova
 
 8. Explique a função das tags HTML e como elas estruturam uma página.
 R: Informar ao navegador a estrutura a ser construida
@@ -53,4 +53,4 @@ Ambos alinham os itens, justify content irá alinhar ao eixo principal (horizont
 R: Definir um elemento a um tamanho adaptavel, ele se estica para preencher o espaço disponível, ótimo para definir tamanho de areas para conteudo
 
 18. Explique a diferença entre flex-direction: column; e flex-direction: row;.
-R: Flex-direction column irá exibir os itens priorizando montar colunas,
+R: Flex-direction column irá exibir os itens priorizando montar colunas, ordenando verticalmente, enquanto Flex-direction rows vai priorizar uma linha, ou seja, ordenando horizontalmente
