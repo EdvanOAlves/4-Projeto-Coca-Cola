@@ -1,6 +1,7 @@
 # 4-Projeto-Coca-Cola
 
 ![](./img/preview-coca-cola.png)
+
 ![](./img/preview-del-valle.png)
 
 Primeiro website criado, do tipo landing page, para treino no desenvolvimento de sites.
