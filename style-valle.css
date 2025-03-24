@@ -88,6 +88,7 @@ footer {
     height: 100px;
     display: grid;
     justify-content: space-between;
+    grid-template-columns: 50% 50% 50%;
     align-items: center;
     padding-right: 75px;
     padding-left: 75px;
